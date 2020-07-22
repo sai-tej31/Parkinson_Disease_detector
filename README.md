@@ -27,11 +27,18 @@ and also we are going to work more on this project and list few more features ba
 We want thank our mentor RAKESH sir for all the support
 
 The Team:
+
 P.Sai Teja Reddy
+
 P.Manikanta
+
 B.Trinadh Reddy
 
+
 Mentor:
+
 Rakesh sir,
+
 SEEE department,
+
 SASTRA UNIVERSITY
