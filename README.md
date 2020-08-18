@@ -4,8 +4,8 @@ PARKINSON DISEASE DETECTOR
 ### What is Parkinson's Disease?
 Parkinson's disease is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. Parkinson's symptoms usually begin gradually and get worse over time. As the disease progresses, people may have difficulty walking and talking.
 
-![Image](/img/parkinson1.jpeg)
-Format: ![Alt Text](url)
+![Image](/img/parkinson1.jpg)
+Format: ![](url)
 
 ### What are the symptoms?
 *Symptoms of PD vary from person to person, as does the rate of progression. A person who has Parkinson's may experience some of these more common "hallmark" symptoms:*
