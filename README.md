@@ -43,7 +43,7 @@ The dataset contains highly **imbalance data** i.e. of 15 healthy individuals an
 # Model Building:
 ***
  From the symptoms of Parkinsons's disease 
- **Rigidity**.**Bradykinesia**,**Tremor**   *The pressure and grip angle made by the person while drawing would help find out these symptoms dr/dt and dr/dθ  would help for rigidity symptom and time taken to draw wii differ from healthy person to parkinson affected person* 
+ **Rigidity**,**Bradykinesia**,**Tremor**   *The pressure and grip angle made by the person while drawing would help find out these symptoms dr/dt and dr/dθ  would help for rigidity symptom and time taken to draw will differ from healthy person to parkinson affected person* 
 ### Feature Engineering
 *We have chosen all 9 features namely mean values of Pressure,Grip angle,Time-taken,state(test-type), both mean and std values fordr/dt,dr/dθ and maximum radius of spiral*
 **We built our model by using both Logistic regression and Random Forest Classifier**
