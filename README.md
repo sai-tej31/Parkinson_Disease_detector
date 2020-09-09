@@ -49,18 +49,3 @@ The dataset contains highly **imbalance data** i.e. of 15 healthy individuals an
 **We built our model by using both Logistic regression and Random Forest Classifier**
 ***
 
-
-
-
-***
-**The Team:**
-* P.Sai Teja Reddy
-* P.Manikanta
-* B.Trinadh Reddy
-
-
-**Mentor:**
-* Rakesh sir,
-* SEEE department,
-* SASTRA UNIVERSITY
-***
